@@ -5,6 +5,14 @@ version released to date for 22digital.agency.
 
 ___By the way, this should not have taken as long to set  up as it has/did.___
 
+## Version 0.3.0 (25/05/2018)
+
+- [#new](#new)
+  - Activated Heroku app at `https://agency-22digital.herokuapp.com/` with
+    a new `Procfile`.
+- [#enhancement](#enhancement)
+  - Updating Gemfile for use with Heroku.
+
 ## Version 0.2.0 (25/05/2018)
 
 This version isn't functioning. I'm ditching GitHub Pages and moving this to
@@ -39,7 +47,7 @@ on Heroku.
 ## Version 0.0.2 (25/05/2018)
 
 - [#enhancement](#enhancement)
-  - Basic git and GitHub file structure put in place. Using the 
+  - Basic git and GitHub file structure put in place. Using the
     @justinhartman/.github project as template files.
 
 ## Version 0.0.1 (25/05/2018)
