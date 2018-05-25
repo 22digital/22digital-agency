@@ -1,1 +1,1 @@
-web: bundle exec jekyll serve
+web: bundle exec rake -P && bundle install && bundle exec jekyll build
