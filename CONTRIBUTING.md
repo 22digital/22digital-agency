@@ -31,5 +31,5 @@ Thanks for contributing! :heart:
 
 [//]: # (Simply change the URL's below to your own project information)
 
-[issues]: https://github.com/justinhartman/Automated-LAMP-with-trusted-localhost-SSL/issues
-[new-issue]: https://github.com/justinhartman/Automated-LAMP-with-trusted-localhost-SSL/issues/new
+[issues]: https://github.com/22digital/22digital.agency/issues
+[new-issue]: https://github.com/22digital/22digital.agency/issues/new
