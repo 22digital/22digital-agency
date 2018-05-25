@@ -5,24 +5,24 @@ locale: en_ZA
 url: https://22digital.agency/
 # theme: jekyll-theme-minimal
 exclude:
-- ".github"
-- ".htaccess"
-- _site
-- ".gitignore"
-- 22digital.agency.code-workspace
-- CHANGELOG.md
-- CNAME
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- Gemfile
-- Gemfile.lock
-- LICENSE
-- Procfile
-- Rakefile
-- README.md
-- bundle
-- vendor
-- node_modules
+- '.github'
+- '.htaccess'
+- '_site'
+- '.gitignore'
+- '22digital.agency.code-workspace'
+- 'CHANGELOG.md'
+- 'CNAME'
+- 'CODE_OF_CONDUCT.md'
+- 'config.ru'
+- 'CONTRIBUTING.md'
+- 'Gemfile'
+- 'Gemfile.lock'
+- 'LICENSE'
+- 'Procfile'
+- 'Rakefile'
+- 'README.md'
+- 'vendor'
+- 'node_modules'
 plugins:
 - jekyll-redirect-from
 ---

@@ -5,6 +5,18 @@ version released to date for 22digital.agency.
 
 ___By the way, this should not have taken as long to set  up as it has/did.___
 
+## Version 0.3.1 (25/05/2018)
+
+- [#enhancement](#enhancement)
+  - Tweaking Procfile to get site loaded.
+  - Added new gem information in the `Gemfile`.
+  - Changing `Procfile` to run `bundle install` before trying to run Jekyll.
+  - Ignoring some files in the `_config.yml` file.
+  - Updated `bundler` to version `1.16.1` from `1.15.2` (I hope anyway).
+- [#new](#new)
+  - Removed `Procfile` completely.
+  - Added a `config.ru` file to get it to run.
+
 ## Version 0.3.0 (25/05/2018)
 
 - [#new](#new)
