@@ -36,7 +36,7 @@ along with specific tasks completed for each version released to date.
 
 ## Authors
 
-* Justin Hartman - [@justinhartman][author-1]
+- Justin Hartman - [@justinhartman][author-1]
 
 Also see the list of [contributors][contribs] who have participated in this 
 project.
@@ -51,8 +51,7 @@ This project is licensed under the [AGPL-3.0 License][license]. See the
 Special thanks go out to the following people and projects who have helped in 
 some way to make this project a reality.
 
-* [@justinhartman/.github][.github] - for the awesome Github project templates.
-
+- [@justinhartman/.github][.github] - for the awesome Github project templates.
 
 [//]: # (Make sure to change the URL links for `[tags]`, `[releases]`,)
 [//]: # (`[contribs]` and `[author-1]` below to your specific project.)

@@ -1,0 +1,23 @@
+---
+title: 22 Digital Agency Redirect
+timezone: Africa/Johannesburg
+locale: en_ZA
+url: https://22digital.agency
+baseurl: ''
+markdown: kramdown
+include: ['.htaccess']
+exclude:
+- ".github"
+- _site
+- ".gitignore"
+- 22digital.agency.code-workspace
+- CHANGELOG.md
+- CNAME
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+plugins:
+- jekyll-redirect-from
