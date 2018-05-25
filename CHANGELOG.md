@@ -5,7 +5,15 @@ version released to date for 22digital.agency.
 
 ___By the way, this should not have taken as long to set  up as it has/did.___
 
-## Version 0.3.1 (25/05/2018)
+## Version 0.3.2 (26/05/2018)
+
+- [#bugfix](#bugfix)
+  - Updated the `index.md` file to redirect to `https://22digital.co.za`
+- [#new](#new)
+  - Added `Procfile` back with this command:
+    `bundle exec rackup config.ru -p $PORT`
+
+## Version 0.3.1 (26/05/2018)
 
 - [#enhancement](#enhancement)
   - Tweaking Procfile to get site loaded.
