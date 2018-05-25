@@ -56,7 +56,6 @@ some way to make this project a reality.
 [//]: # (Make sure to change the URL links for `[tags]`, `[releases]`,)
 [//]: # (`[contribs]` and `[author-1]` below to your specific project.)
 
-[deploy]: #deployment
 [CONTRIBUTING]: CONTRIBUTING.md
 [COC]: CODE_OF_CONDUCT.md
 [license]: LICENSE
