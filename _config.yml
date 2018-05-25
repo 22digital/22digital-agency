@@ -6,6 +6,7 @@ url: https://22digital.agency
 theme: jekyll-theme-minimal
 exclude:
 - ".github"
+- ".htaccess"
 - _site
 - ".gitignore"
 - 22digital.agency.code-workspace
