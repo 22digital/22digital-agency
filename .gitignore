@@ -1,4 +1,6 @@
 .git/
-_site/
-.sass-cache/
 _master_files/
+_site/
+.bundle/
+.sass-cache/
+vendor/
