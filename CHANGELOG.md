@@ -5,6 +5,12 @@ version released to date for 22digital.agency.
 
 ___By the way, this should not have taken as long to set  up as it has/did.___
 
+## Version 0.3.3 (26/05/2018)
+
+- [#enhancement](#enhancement)
+  - Updated `README.md` to reflect Heroku and not gh-pages.
+  - Deleted the `CNAME` file as this is only used on gh-pages.
+
 ## Version 0.3.2 (26/05/2018)
 
 - [#bugfix](#bugfix)

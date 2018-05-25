@@ -1,6 +1,6 @@
-# 22digital GitHub Pages Domain Redirect
+# 22digital Heroku Domain Redirect
 
-A simple page redirect to use GitHub Pages to redirect this project to another GitHub Pages project website; which is actually maintained.
+A simple page redirect to use Heroku to redirect this project to a more currently maintained GitHub Pages project website.
 
 ### Table of Contents
 
