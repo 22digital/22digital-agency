@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
-ruby '2.3.7'
-gem 'github-pages'
+gem "rake"
+ruby "2.4.2"
+# gem 'github-pages'
 group :jekyll_plugins do
   gem 'jekyll-redirect-from'
 end
