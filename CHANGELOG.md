@@ -5,6 +5,13 @@ version released to date for 22digital.agency.
 
 ___By the way, this should not have taken as long to set  up as it has/did.___
 
+## Version 0.3.5 (20/09/2018)
+
+- [#enhancement](#enhancement)
+  - Updated `Gemfile` to use `ruby 2.5.1` and `bundler 1.16.3`.
+  - Removed VS Code workspace file.
+  - Updated the redirect domain (only relevant to my personal project not this).
+
 ## Version 0.3.4 (26/05/2018)
 
 - [#enhancement](#enhancement)
