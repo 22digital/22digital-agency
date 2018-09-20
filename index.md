@@ -1,5 +1,5 @@
 ---
 published: true
 redirect_to:
-  - https://22digital.co.za/
+  - https://22digital.agency/
 ---
